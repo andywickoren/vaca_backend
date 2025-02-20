@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "andy_test",
+    "password": "penny8165",
+    "database": "vacation_db",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
